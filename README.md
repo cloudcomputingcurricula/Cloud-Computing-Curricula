@@ -23,6 +23,12 @@ Example of Cloud Computing
 
 ## Module Design
 
+## General Resources
+
+* [Smooth Sailing with Kubernetes](k8scomic.md): a comic book introduction to Kubernetes
+
+## Module Design
+
 Create New Module
 [Create New Module Template](https://github.com/cloudcomputingcurricula/Modules-/blob/master/Module.md)
 
