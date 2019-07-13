@@ -1,8 +1,4 @@
-# Module Design
-
-## Title
-
-Kubernetes Comic
+# Smooth Sailing with Kubernetes
 
 ## Knowledge Area(s)
 
@@ -11,7 +7,7 @@ Kubernetes Comic
 
 ## Level of study
 
-- Intro
+- Introductory
 
 ## Product/Service(s)
 
