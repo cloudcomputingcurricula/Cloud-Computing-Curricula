@@ -7,7 +7,6 @@
 ## Knowledge Area(s)
 
 - *Add KA(s)* [KA]()
-- *Add KA(s)*[KA]()
 - *Fundamental Cloud Concepts (FCC)*
 - *Computing Abstractions on the Cloud (CAC)*
 - *Storage Resources on the Cloud (SRC)*
@@ -42,3 +41,7 @@
 ## Learning objectives
 
 1. *Add numbered Learning Objectives [(Guidance)]*
+
+## Content Link
+
+- *Add the link to your resources [(Guidance)]*

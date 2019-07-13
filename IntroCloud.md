@@ -57,3 +57,8 @@ This is a summary of the course
 1. Introduction to cloud computing
 2. Cloud Computing Basics
 3. Create cloud services account
+
+## Content Link
+
+- *Add the link to your resources [(Guidance)]*
+[Cloud Curriculum 101](http://onedrive.com)  
