@@ -9,4 +9,4 @@ Please email any suggestions or comments to Example Emails with Cloud Computing 
 Example of Cloud Computing
 [Example 1]: https://cloudcomputingcurricula.github.io/
 ## Module Design 
-[Create New Module]: /Module.md
+[Create New Module]: https://github.com/cloudcomputingcurricula/Modules-/blob/master/Module.md
