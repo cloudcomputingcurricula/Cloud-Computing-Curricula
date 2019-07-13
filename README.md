@@ -9,9 +9,17 @@ Please email any suggestions or comments to Example Emails with Cloud Computing 
 
 Example of Cloud Computing
 
-- [Example 1 static URL ](https://cloudcomputingcurricula.github.io/)
-- [Example 2 Nift Assignments](http://http://nifty.stanford.edu/)
-- [Example 3 Intro Cloud Computing ](https://github.com/cloudcomputingcurricula/Modules-/blob/master/IntroCloud.md)
+## Modules
+
+[Intro Cloud Computing ](https://github.com/cloudcomputingcurricula/Modules-/blob/master/)
+
+## Assignments
+
+[Example 2 Nift Assignments](http://http://nifty.stanford.edu/)
+
+## Labs
+
+[Example 1 static URL ](https://cloudcomputingcurricula.github.io/)
 
 ## Module Design
 

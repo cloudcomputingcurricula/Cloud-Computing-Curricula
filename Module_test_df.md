@@ -1,10 +1,12 @@
-# Content Template
+# Module Design
 
-*Replace Content Template the working title [(Guidance)]()*
+## Test Module DF
+
+*Add the working title [(Guidance)]()*
 
 ## Knowledge Area(s)
 
-- *Add KA(s) Delete NonApplicable*
+- *Add KA(s)* [KA]()
 - *Fundamental Cloud Concepts (FCC)*
 - *Computing Abstractions on the Cloud (CAC)*
 - *Storage Resources on the Cloud (SRC)*
@@ -22,22 +24,11 @@
 
 ## Level of study
 
-- *Add the level Delete NonApplicable*
-- *Introduction*
-- *Intermediate*
-- *Advanced*
+- *Add the level*  [Level guidance]()
 
-## Cloud Vendor(s)
+## Product/Service(s)
 
-- *Add the vendor(s) Delete NonApplicable* 
-- *AWS*
-- *Azure*
-- *GCP*
-- *IBM*
-
-## Products & Service(s)
-
-- *Add the Service(s)*
+- *Add the product(s)*
 
 ## Prerequisites
 
@@ -54,13 +45,3 @@
 ## Content Link
 
 - *Add the link to your resources [(Guidance)]*
-
-## Author
-
-- *Author(s)*
-
-## License 
-
-- *License requirements[(Guidance)]*
-
-
