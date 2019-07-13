@@ -1,12 +1,13 @@
 # Module Design
 
-## Title
+## Intro to cloud computing 
 
 *Add the working title [(Guidance)]()*
 
+This module is a intro to cloud computing 
+
 ## Knowledge Area(s)
 
-- *Add KA(s)* [KA]()
 - *Add KA(s)*[KA]()
 - *Fundamental Cloud Concepts (FCC)*
 - *Computing Abstractions on the Cloud (CAC)*
@@ -23,22 +24,36 @@
 - *IoT, Mobile, Edge and the Cloud (IoTMEC)*
 - *Cloud-based Artificial Intelligence and Machine Learning (CAIML)*
 
+FCC, CAIML 
+
 ## Level of study
 
 - *Add the level*  [Level guidance]()
+
+Undergradute 1st Year intro 
 
 ## Product/Service(s)
 
 - *Add the product(s)*
 
+To undertake this module we will be using Azure, GCP, AWS
+
 ## Prerequisites
 
 - *List the prerequisites [(Guidance)]*
+
+You must have an account on each provider
 
 ## Summary
 
 *Add the summary [(Guidance)]*
 
+This is a summary of the course 
+
 ## Learning objectives
 
 1. *Add numbered Learning Objectives [(Guidance)]*
+
+1. Introduction to cloud computing
+2. Cloud Computing Basics
+3. Create cloud services account
