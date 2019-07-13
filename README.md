@@ -12,4 +12,5 @@ Example of Cloud Computing
 
 ## Module Design
 
+Create New Module
 [Create New Module]: https://github.com/cloudcomputingcurricula/Modules-/blob/master/Module.md
