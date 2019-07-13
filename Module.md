@@ -1,8 +1,6 @@
-# Module Design
+# Content Template
 
-## Title
-
-*Add the working title [(Guidance)]()*
+*Replace Content Template the working title [(Guidance)]()*
 
 ## Knowledge Area(s)
 
