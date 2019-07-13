@@ -16,3 +16,7 @@
 ## Content Link
 
 - https://cloud.google.com/kubernetes-engine/kubernetes-comic/
+
+## Contributor  (Make this Contributor or Author)
+
+* Laurie White (email here? email optional?)
