@@ -6,7 +6,10 @@ Adding Content. See the info page for ideas about what makes a nifty assignment 
 Please email any suggestions or comments to Example Emails with Cloud Computing in the subject.
 
 ## update this list with your content
+
 Example of Cloud Computing
 [Example 1]: https://cloudcomputingcurricula.github.io/
-## Module Design 
+
+## Module Design
+
 [Create New Module]: https://github.com/cloudcomputingcurricula/Modules-/blob/master/Module.md
