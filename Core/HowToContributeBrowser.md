@@ -13,15 +13,15 @@ If you've previously forked the repo, instead you will need to do [a pull reques
 
 ### Make your changes
 - You may edit files directly in the browser.
--- To edit an existing file (such as `README.md`), navigate to the file and click the pencil at the top of the file.
--- To add a new file, navigate to the appropriate folder and select `Create new file`.  
---- There is no ability to copy a file in GitHub, so to make a copy of `Module.md`, it's easier to create a new file and cut and paste the contents into a new file.
+  - To edit an existing file (such as `README.md`), navigate to the file and click the pencil at the top of the file.
+  - To add a new file, navigate to the appropriate folder and select `Create new file`.  
+    - There is no ability to copy a file in GitHub, so to make a copy of `Module.md`, it's easier to create a new file and cut and paste the contents into a new file.
 - Please see [this document](HowToContributeBasic.md) for instructions on formatting your changes.
 - As you finish editing each document, commit your changes by navigating to the bottonm of the page, filling in information in the _Commit changes_ section, and clicking "Commit changes." 
 - If you want to add your material to GitHub directly, as opposed to just providing a link, upload them to the `UploadContent` folder in the `Content Folder`. 
 
-###Submit a pull request 
+### Submit a pull request 
 - Once you are done with all changes, click on the "New Pull Request" button at the top of the main repo page.
 - Ensure that the direction of the pull is to `base repository: cloudcomputingcurricula/Cloud-Computing-Curricula, base:master` from your repo.
 - If you have changes, you will see “Able to merge” notification and will be able to commit by clicking on ”Create pull request” button. 
-    - Enter any comments necessary and click the “Create pull request” button again. 
+  - Enter any comments necessary and click the “Create pull request” button again. 
