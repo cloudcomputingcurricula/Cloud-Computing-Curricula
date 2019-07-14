@@ -19,38 +19,38 @@
 ## Knowledge Area(s)
 
 - *Add KA(s) Delete NonApplicable*
-- *Fundamental Cloud Concepts (FCC)*
-- *Computing Abstractions on the Cloud (CAC)*
-- *Storage Resources on the Cloud (SRC)*
-- *Networking Resources on the Cloud (NRC)*
-- *Cloud Elasticity and Scalability (CES)*
-- *Fault Tolerance, Resilience and Reliability (FTRR)*
-- *Cloud Deployment, Monitoring and Maintenance (CDMM)*
-- *Cloud Orchestration (CO)*
-- *Software Development using Cloud APIs (SDCA)*
-- *Cloud Programming Models and Frameworks (CPMF)*
-- *Service Oriented Architecture (SOA)*
-- *Cloud Security, Privacy, Policy and Ethics (CSPPE)*
-- *IoT, Mobile, Edge and the Cloud (IoTMEC)*
-- *Cloud-based Artificial Intelligence and Machine Learning (CAIML)*
+- [Fundamental Cloud Concepts (FCC)](Core/KAs/FCC.md)
+- [Computing Abstractions on the Cloud (CAC)](Core/KAs/CAC.md)
+- [Storage Resources on the Cloud (SRC)](Core/KAs/SRC.md)
+- [Networking Resources on the Cloud (NRC)](Core/KAs/NRC.md)
+- [Cloud Elasticity and Scalability (CES)](Core/KAs/CES.md)
+- [Fault Tolerance, Resilience and Reliability (FTRR)](Core/KAs/FTRR.md)
+- [Cloud Deployment, Monitoring and Maintenance (CDMM)](Core/KAs/CDMM.md)
+- [Cloud Orchestration (CO)](Core/KAs/CO.md)
+- [Software Development using Cloud APIs (SDCA)](Core/KAs/SDCA.md)
+- [Cloud Programming Models and Frameworks (CPMF)](Core/KAs/CPMF.md)
+- [Service Oriented Architecture (SOA)](Core/KAs/SOA.md)
+- [Cloud Security, Privacy, Policy and Ethics (CSPPE)](Core/KAs/CSPPE.md)
+- [IoT, Mobile, Edge and the Cloud (IoTMEC)](Core/KAs/IoTMEC.md)
+- [Cloud-based Artificial Intelligence and Machine Learning (CAIML)](Core/KAs/CAIML.md)
 
 ## Tags to describe your contribution
 ### Level of Study
 
 - *Add the level Delete NonApplicable*
-- *Introduction*
-- *Intermediate*
-- *Advanced*
+- Introduction
+- Intermediate
+- Advanced
 
 ### Cloud Vendor(s)
 
 - *Add the vendor(s) Delete NonApplicable or add your add own* 
-- *None*
-- *AWS*
-- *Azure*
-- *GCP*
-- *IBM*
-- *Add your Own*
+- None
+- AWS
+- Azure
+- GCP
+- IBM
+- Add your Own
 
 ### General Tags
 
