@@ -2,7 +2,7 @@
 
 ### Details
 
-An ACM SiGCSE Working Group titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different computing courses and programs across a broad range of international Higher Education institutions. The Working Group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). 
+[ACM SiGCSE Working Group](/Core/wgmembers.md) titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different computing courses and programs across a broad range of international Higher Education institutions. The Working Group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). 
 
 More information about the working group (WG7) is at https://iticse.acm.org/working-group-details/#WG7, with group member details [here.](/Core/wgmembers.md)
 
@@ -19,7 +19,12 @@ Adding Content. See the info page for ideas about what makes a nifty assignment 
 ## Cloud Computing Curricula Resources
 
 [//]: # (Please add links to your content here)
-Example of Cloud Computing
+
+Instructions for how to contribute resources to this collection
+
+[How to contribute via a browser]()
+[How to contribute via a prompt]()
+
 
 ## Modules
 
@@ -33,7 +38,6 @@ Example of Cloud Computing
 
 [Example 1 static URL ](https://cloudcomputingcurricula.github.io/)
 
-## Module Design
 
 ## General Resources
 
