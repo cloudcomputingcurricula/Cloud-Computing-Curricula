@@ -56,7 +56,7 @@
 
 - *Add the topics, classes, and other tags to help describe your content*
 
-## Prerequisites Optional
+## Prerequisites (Optional)
 
 - *List the prerequisites required software to be installed [(Guidance)]*
 
