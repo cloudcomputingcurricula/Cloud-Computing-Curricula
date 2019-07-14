@@ -1,6 +1,20 @@
-# Content Template
+## Title
 
-*Replace Content Template the working title [(Guidance)]()*
+*Content Title Replace Content Template the working title [(Guidance)]()*
+
+## Summary
+
+*Add the summary [(Guidance)]*
+
+## Author or Contributor (Optional)
+
+- *Author(s)*
+- *Contact [(How do you want people to contact you LinkedIn profile, Twitter, Email, N/A)]*
+- *Institution/Company*
+
+## Content Link
+
+- *Add the link to your resources [(Guidance)]*
 
 ## Knowledge Area(s)
 
@@ -20,47 +34,36 @@
 - *IoT, Mobile, Edge and the Cloud (IoTMEC)*
 - *Cloud-based Artificial Intelligence and Machine Learning (CAIML)*
 
-## Level of study
+## Tags to describe your contribution
+### Level of study
 
 - *Add the level Delete NonApplicable*
 - *Introduction*
 - *Intermediate*
 - *Advanced*
 
-## Cloud Vendor(s)
+### Cloud Vendor(s)
 
-- *Add the vendor(s) Delete NonApplicable* 
+- *Add the vendor(s) Delete NonApplicable or add your add own* 
+- *None*
 - *AWS*
 - *Azure*
 - *GCP*
 - *IBM*
+- *Add your Own*
 
-## Products & Service(s)
+### General tags
 
-- *Add the Service(s)*
+- *Add the topics, classes, and other tags to help describe your content*
 
-## Prerequisites
+## Prerequisites Optional
 
-- *List the prerequisites [(Guidance)]*
-
-## Summary
-
-*Add the summary [(Guidance)]*
+- *List the prerequisites required software to be installed [(Guidance)]*
 
 ## Learning objectives
 
 1. *Add numbered Learning Objectives [(Guidance)]*
 
-## Content Link
-
-- *Add the link to your resources [(Guidance)]*
-
-## Author
-
-- *Author(s)*
-
-## License 
+## License (Optional)
 
 - *License requirements[(Guidance)]*
-
-
