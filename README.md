@@ -2,7 +2,7 @@
 
 ### Details
 
-The ACM SiGCSE Working Group titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different technology-focused courses and programs in a broad range of international Higher Education institutions. The Working Group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). More information about the working group (WG7) is available [here](https://iticse.acm.org/working-group-details/#WG7), with group member details [here.](/Core/wgmembers.md)
+The [ACM SiGCSE](https://sigcse.org/sigcse/) Working Group titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different technology-focused courses and programs in a broad range of international Higher Education institutions. The Working Group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). More information about the working group (WG7) is available [here](https://iticse.acm.org/working-group-details/#WG7), with group member details [here.](/Core/wgmembers.md)
 
 ## Goal
 
