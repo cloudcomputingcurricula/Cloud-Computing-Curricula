@@ -54,11 +54,11 @@
 
 - *Add the Service(s) used with the content*
 
-## Prerequisites (Optional)
+## Prerequisites Optional
 
 - *List the prerequisites required software to be installed [(Guidance)]*
 
-## Learning objectives (Optional)
+## Learning objectives
 
 1. *Add numbered Learning Objectives [(Guidance)]*
 

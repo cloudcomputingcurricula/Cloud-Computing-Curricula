@@ -1,18 +1,23 @@
 ## Cloud Computing Resources
 
 Details:
-A working group titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different computing courses and programs at a broad range of higher education institutions. The working group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). 
+A SiGCSE working group titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different computing courses and programs at a broad range of higher education institutions. The working group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). 
 
 More information about the working group: WG7 at https://iticse.acm.org/working-group-details/#WG7.
 
-Goal: - Gathering and distributing cloud computing resources. For each assignment, the web pages linked below describe the assignment and provides materials -- handouts, starter code, and so on.
+## Cloud Computing Curriculum Survey 
 
-Adding Content. See the info page for ideas about what makes a nifty assignment and how to apply for the Nifty session.
+We are an ITiCSE 2019 working group on developing a cloud computing curriculum. We are running a survey to learn about existing cloud-related courses.  Please take 5-10 minutes to fill this survey about cloud-related courses at your institution: [Cloud Survey 2019](https://forms.gle/MYz2iX5J8UBigwQG7)
 
-Please email any suggestions or comments to Example Emails with Cloud Computing in the subject.
+## Goal
 
-## update this list with your content
+Gathering and distributing cloud computing resources. For each assignment, the web pages linked below describe the assignment and provides materials -- handouts, starter code, and so on.
 
+Adding Content. See the info page for ideas about what makes a nifty assignment and how to apply for the 
+
+## Cloud Computing Curricula Resources
+
+[//]: # (Please add links to your content here)
 Example of Cloud Computing
 
 ## Modules
