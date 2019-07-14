@@ -10,4 +10,4 @@ For beginner users, we recommend using GitHub client or website (see bottom) for
     - sudo git fetch cloudcomputingcurricula (to synchronize)
     - sudo git merge cloudcomputingcurricula/master (to merge your local updates)
 
-GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula)
+[How to contribute (browser)] (https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula/blob/master/Core/HowToContributeBrowser.md)
