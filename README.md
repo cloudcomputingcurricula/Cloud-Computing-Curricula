@@ -42,10 +42,3 @@ The paper ['Cloud computing: developing contemporary computer science curriculum
 
 * [Smooth Sailing with Kubernetes](/Content/k8scomic.md) (FCC, CAC): a comic book introduction to Kubernetes (introductory)
 
-## Module Design
-
-Create New Module
-[Create New Module Template](https://github.com/cloudcomputingcurricula/Modules-/blob/master/Module.md)
-
-Download the template and PR the template adding a link to the Example of Cloud Computing
-Minor text update just for testing. 
