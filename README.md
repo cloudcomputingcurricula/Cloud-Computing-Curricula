@@ -20,8 +20,9 @@ The paper ['Cloud computing: developing contemporary computer science curriculum
 
 ## Instructions for how to Contribute Resources to this Collection
 
-[How to contribute via a browser]()
-[How to contribute via a prompt]()
+* [General guidance on how to contribute](Core/HowToContributeBasic.md): information on sytle and structure issues for contributors
+* [How to contribute via a browser](Core/HowToContributeBrowser.md): details on contributiong to GitHub using the browser
+* [How to contribute via a prompt](Core/HowToContributeCMD.md): details on contributiong to GitHub using the command line
 
 
 ## Modules
