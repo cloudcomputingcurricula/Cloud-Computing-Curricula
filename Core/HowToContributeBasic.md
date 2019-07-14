@@ -22,7 +22,7 @@ In the file `Module.md`, update the sections as follows:
 * Learning objectives (Optional)
 * License (Optional)
 
-See [this file](`Sample.md`) for an example of an edited `Module.md`.
+See [this file](Sample.md) for an example of an edited `Module.md`.
 
 ## Guidance for changes to `README.md`
 Add information that will help others decide if they'd like to explore your contribution further to the `README.md` file.  Put it under the appropriate header (adding a header if necessary).
