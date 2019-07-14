@@ -2,24 +2,29 @@
 
 ### Details
 
-An ACM SiGCSE Working Group titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different computing courses and programs across a broad range of international Higher Education institutions. The Working Group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). 
+The [ACM SiGCSE Working Group](/Core/wgmembers.md) titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different computing courses and programs across a broad range of international Higher Education institutions. The Working Group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). 
 
 More information about the working group (WG7) is at https://iticse.acm.org/working-group-details/#WG7, with group member details [here.](/Core/wgmembers.md)
 
-## Cloud Computing Curriculum Survey 
-
-We are an ITiCSE 2019 working group on developing a cloud computing curriculum. We are running a survey to learn about existing cloud-related courses.  Please take 5-10 minutes to fill this survey about cloud-related courses at your institution: [Cloud Survey 2019](https://forms.gle/MYz2iX5J8UBigwQG7)
-
 ## Goal
 
-Gathering and distributing cloud computing resources for teaching. For each assignment, the web pages linked below describe the assignment and provides materials -- handouts, starter code, and so on.
+To create a community ting cloud computing resources for teaching.uting teaching resources.
 
-Adding Content. See the info page for ideas about what makes a nifty assignment and how to apply for the 
+## Cloud Computing Curriculum Survey 
 
-## Cloud Computing Curricula Resources
+ The group is running a survey to learn about existing cloud-related courses.  Please take 5-10 minutes to fill this survey about cloud-related courses at your institution: [Cloud Survey 2019](https://forms.gle/MYz2iX5J8UBigwQG7)
+
+## Publications
+
+The paper 'Cloud computing: developing contemporary computer science curriculum for a cloud-first future' was published by the working group in 2018 and led to the creation of Knowledge Areas for developing cloud computing curricula.
 
 [//]: # (Please add links to your content here)
-Example of Cloud Computing
+
+## Instructions for how to contribute resources to this collection
+
+[How to contribute via a browser]()
+[How to contribute via a prompt]()
+
 
 ## Modules
 
@@ -33,7 +38,6 @@ Example of Cloud Computing
 
 [Example 1 static URL ](https://cloudcomputingcurricula.github.io/)
 
-## Module Design
 
 ## General Resources
 
