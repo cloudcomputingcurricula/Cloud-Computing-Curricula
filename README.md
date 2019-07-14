@@ -18,10 +18,11 @@ The paper ['Cloud computing: developing contemporary computer science curriculum
 
 [//]: # (Please add links to your content here)
 
-## Instructions for how to Contribute Resources to this Collection
+## How to Contribute/Update Resources to this Collection
 
-[How to contribute via a browser]()
-[How to contribute via a prompt]()
+* [General guidance on how to contribute](Core/HowToContributeBasic.md): information on sytle and structure issues for contributors
+* [How to contribute via a browser](Core/HowToContributeBrowser.md): details on contributing to GitHub using the browser
+* [How to contribute via a prompt](Core/HowToContributeCMD.md): details on contributing to GitHub using the command line
 
 
 ## Modules
@@ -41,10 +42,3 @@ The paper ['Cloud computing: developing contemporary computer science curriculum
 
 * [Smooth Sailing with Kubernetes](/Content/k8scomic.md) (FCC, CAC): a comic book introduction to Kubernetes (introductory)
 
-## Module Design
-
-Create New Module
-[Create New Module Template](https://github.com/cloudcomputingcurricula/Modules-/blob/master/Module.md)
-
-Download the template and PR the template adding a link to the Example of Cloud Computing
-Minor text update just for testing. 
