@@ -6,7 +6,7 @@ The ACM SiGCSE Working Group titled "Toward Developing a Cloud Computing Model C
 
 ## Goal
 
-To create a community focused on sharing cloud computing resources for teaching
+To create a learning community focused on sharing cloud computing resources for teaching.
 
 ## Cloud Computing Curriculum Survey 
 
