@@ -1,6 +1,20 @@
-# Content Template
+## Title
 
-*Replace Content Template the working title [(Guidance)]()*
+*Content Title Replace Content Template the working title [(Guidance)]()*
+
+## Summary
+
+*Add the summary [(Guidance)]*
+
+## Author or Contributor
+
+- *Author(s)*
+- *Contact [(How do you want people to contact you LinkedIn profile, Twitter, Email, N/A)]*
+- *Institution/Company*
+
+## Content Link
+
+- *Add the link to your resources [(Guidance)]*
 
 ## Knowledge Area(s)
 
@@ -29,38 +43,25 @@
 
 ## Cloud Vendor(s)
 
-- *Add the vendor(s) Delete NonApplicable* 
+- *Add the vendor(s) Delete NonApplicable or add your add own* 
 - *AWS*
 - *Azure*
 - *GCP*
 - *IBM*
+- *Add your Own*
 
 ## Products & Service(s)
 
-- *Add the Service(s)*
+- *Add the Service(s) used with the content*
 
-## Prerequisites
+## Prerequisites (Optional)
 
-- *List the prerequisites [(Guidance)]*
+- *List the prerequisites required software to be installed [(Guidance)]*
 
-## Summary
-
-*Add the summary [(Guidance)]*
-
-## Learning objectives
+## Learning objectives (Optional)
 
 1. *Add numbered Learning Objectives [(Guidance)]*
 
-## Content Link
-
-- *Add the link to your resources [(Guidance)]*
-
-## Author
-
-- *Author(s)*
-
-## License 
+## License
 
 - *License requirements[(Guidance)]*
-
-
