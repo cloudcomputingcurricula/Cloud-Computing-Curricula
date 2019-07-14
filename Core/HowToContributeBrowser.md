@@ -13,7 +13,7 @@ If you've previously forked the repo, instead you will need to do [a pull reques
 
 ### Make your changes
 - You may edit files directly in the browser.
-  - To edit an existing file (such as `README.md`), navigate to the file and click the pencil at the top of the file.
+  - To edit an existing file (such as `Contributions.md`), navigate to the file and click the pencil at the top of the file.
   - To add a new file, navigate to the appropriate folder and select `Create new file`.  
     - There is no ability to copy a file in GitHub, so to make a copy of `Module.md`, it's easier to create a new file and cut and paste the contents into a new file.
 - Please see [this document](HowToContributeBasic.md) for instructions on formatting your changes.
