@@ -35,7 +35,7 @@
 - *Cloud-based Artificial Intelligence and Machine Learning (CAIML)*
 
 ## Tags to describe your contribution
-### Level of study
+### Level of Study
 
 - *Add the level Delete NonApplicable*
 - *Introduction*
@@ -52,7 +52,7 @@
 - *IBM*
 - *Add your Own*
 
-### General tags
+### General Tags
 
 - *Add the topics, classes, and other tags to help describe your content*
 
@@ -60,7 +60,7 @@
 
 - *List the prerequisites required software to be installed [(Guidance)]*
 
-## Learning objectives
+## Learning Objectives
 
 1. *Add numbered Learning Objectives [(Guidance)]*
 
