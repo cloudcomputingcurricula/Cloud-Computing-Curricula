@@ -1,22 +1,34 @@
 # Smooth Sailing with Kubernetes
 
+## Summary 
+
+Comic book for K8s
+
 ## Knowledge Area(s)
 
 - *Fundamental Cloud Concepts (FCC)*
 - *Computing Abstractions on the Cloud (CAC)*
 
-## Level of study
+## Contributor
 
-- Introductory
-
-## Product/Service(s)
-
-- Comic book for K8s
+- Laurie White
 
 ## Content Link
 
 - https://cloud.google.com/kubernetes-engine/kubernetes-comic/
 
-## Contributor  (Make this Contributor or Author)
 
-* Laurie White (email here? email optional?)
+## Knowledge Area(s)
+
+- *Fundamental Cloud Concepts (FCC)*
+- *Computing Abstractions on the Cloud (CAC)*
+
+## Tags to describe your contribution
+### Level of study
+
+- *Introduction*
+
+### General tags
+
+- Kubernetes, Comic
+
