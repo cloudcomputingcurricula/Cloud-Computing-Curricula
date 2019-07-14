@@ -15,7 +15,7 @@ Example of Cloud Computing
 
 ## Assignments
 
-[Example 2 Nift Assignments](http://http://nifty.stanford.edu/)
+[Example 2 Nifty Assignments](http://http://nifty.stanford.edu/)
 
 ## Labs
 
@@ -25,7 +25,7 @@ Example of Cloud Computing
 
 ## General Resources
 
-* [Smooth Sailing with Kubernetes](k8scomic.md): a comic book introduction to Kubernetes
+* [Smooth Sailing with Kubernetes](k8scomic.md) (FCC, CAC): a comic book introduction to Kubernetes (introductory)
 
 ## Module Design
 
