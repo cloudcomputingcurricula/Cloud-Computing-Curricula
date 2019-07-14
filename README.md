@@ -1,6 +1,6 @@
-## Cloud Computing Resources
+# Cloud Computing Resources
 
-### Details
+## Details
 
 The [ACM SiGCSE](https://sigcse.org/sigcse/) Working Group titled "Toward Developing a Cloud Computing Model Curriculum" is exploring the current state of adoption of cloud computing across different technology-focused courses and programs in a broad range of international Higher Education institutions. The Working Group will convene at the 24th Annual Conference on Innovation and Technology in Computer Science Education [ITiCSE 2019](https://iticse.acm.org/). More information about the working group (WG7) is available [here](https://iticse.acm.org/working-group-details/#WG7), with group member details [here.](/Core/wgmembers.md)
 
@@ -14,11 +14,11 @@ To create a learning community focused on sharing cloud computing resources for 
 
 ## Publications
 
-The paper 'Cloud computing: developing contemporary computer science curriculum for a cloud-first future' was published by the working group in 2018 and led to the creation of Knowledge Areas for developing cloud computing curricula.
+The paper ['Cloud computing: developing contemporary computer science curriculum for a cloud-first future'](https://dl.acm.org/citation.cfm?id=3295781&dl=ACM&coll=DL) was published by the working group in 2018 and led to the creation of Knowledge Areas for developing cloud computing curricula.
 
 [//]: # (Please add links to your content here)
 
-## Instructions for how to contribute resources to this collection
+## Instructions for how to Contribute Resources to this Collection
 
 [How to contribute via a browser]()
 [How to contribute via a prompt]()
