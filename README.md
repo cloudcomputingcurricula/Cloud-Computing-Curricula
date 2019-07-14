@@ -15,7 +15,7 @@ Example of Cloud Computing
 
 ## Assignments
 
-[Example 2 Nift Assignments](http://http://nifty.stanford.edu/)
+[Example 2 Nifty Assignments](http://http://nifty.stanford.edu/)
 
 ## Labs
 
