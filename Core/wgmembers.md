@@ -2,9 +2,9 @@
 
 || |
 | - | - |
-| ![Derek Foster](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/Dfoster.jpg) | [Derek Foster](https://staff.lincoln.ac.uk/defoster) I am a Principal Lecturer in the Lincoln School of Computer Science  |
+| ![Derek Foster](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/Dfoster.jpg) | [Derek Foster](https://staff.lincoln.ac.uk/defoster) is a Principal Lecturer in the Lincoln School of Computer Science  |
 |![Laurie White](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/LaurieW.jpg) |[Laurie White](https://laurie.dev/)  Google Cloud Developer Relations |
-| ![Cenk Erdril](/https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/Erdil_Cenk.jpg) | [D. Cenk Erdil](https://www.sacredheart.edu/academics/schoolofcomputerscienceengineering/facultystaff/dcenkerdilphd/)  I am a Assistant Professor at Sacred Heart University’s School of Computer Science and Engineering |
+| ![Cenk Erdril](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/Erdil_Cenk.jpg) | [D. Cenk Erdil](https://www.sacredheart.edu/academics/schoolofcomputerscienceengineering/facultystaff/dcenkerdilphd/)  I am a Assistant Professor at Sacred Heart University’s School of Computer Science and Engineering |
 | ![Harvey Hyman](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/hyman-harvey.jpg) |[Harvey Hyman](https://www.usf.edu/business/contacts/hyman-harvey.aspx) I am a instructor in the Information Systems and Decision Sciences Department at Muma College of Business|
 |![Joshua Adams](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/JoshuaA.jpg) | [Joshua Adams](https://www.linkedin.com/in/joshua-adams-a24b7b24) I am a instructor at Saint Leo University 
 | ![Majd Sakr](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/Majd.jpg) | [Majd Sakr](https://www.cs.cmu.edu/~msakr/) I am a Teaching Professor in the Computer Science Department at School of Computer Science within Carnegie Mellon University|
