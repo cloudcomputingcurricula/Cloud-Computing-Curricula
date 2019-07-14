@@ -6,7 +6,7 @@
 
 *Add the summary [(Guidance)]*
 
-## Author or Contributor
+## Author or Contributor (Optional)
 
 - *Author(s)*
 - *Contact [(How do you want people to contact you LinkedIn profile, Twitter, Email, N/A)]*
@@ -34,25 +34,27 @@
 - *IoT, Mobile, Edge and the Cloud (IoTMEC)*
 - *Cloud-based Artificial Intelligence and Machine Learning (CAIML)*
 
-## Level of study
+## Tags to describe your contribution
+### Level of study
 
 - *Add the level Delete NonApplicable*
 - *Introduction*
 - *Intermediate*
 - *Advanced*
 
-## Cloud Vendor(s)
+### Cloud Vendor(s)
 
 - *Add the vendor(s) Delete NonApplicable or add your add own* 
+- *None*
 - *AWS*
 - *Azure*
 - *GCP*
 - *IBM*
 - *Add your Own*
 
-## Products & Service(s)
+### General tags
 
-- *Add the Service(s) used with the content*
+- *Add the topics, classes, and other tags to help describe your content*
 
 ## Prerequisites (Optional)
 
@@ -62,6 +64,6 @@
 
 1. *Add numbered Learning Objectives [(Guidance)]*
 
-## License
+## License (Optional)
 
 - *License requirements[(Guidance)]*
