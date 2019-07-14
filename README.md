@@ -6,17 +6,17 @@ The [ACM SiGCSE Working Group](/Core/wgmembers.md) titled "Toward Developing a C
 
 More information about the working group (WG7) is at https://iticse.acm.org/working-group-details/#WG7, with group member details [here.](/Core/wgmembers.md)
 
-## Cloud Computing Curriculum Survey 
-
- The group is running a survey to learn about existing cloud-related courses.  Please take 5-10 minutes to fill this survey about cloud-related courses at your institution: [Cloud Survey 2019](https://forms.gle/MYz2iX5J8UBigwQG7)
-
 ## Goal
 
 To create a community ting cloud computing resources for teaching.uting teaching resources.
 
+## Cloud Computing Curriculum Survey 
+
+ The group is running a survey to learn about existing cloud-related courses.  Please take 5-10 minutes to fill this survey about cloud-related courses at your institution: [Cloud Survey 2019](https://forms.gle/MYz2iX5J8UBigwQG7)
+
 ## Publications
 
-The paper 'Cloud computing: developing contemporary computer science curriculum for a cloud-first future' was published by the working group in 2018 and led to the creation ofmputing Curricua Resources
+The paper 'Cloud computing: developing contemporary computer science curriculum for a cloud-first future' was published by the working group in 2018 and led to the creation of Knowledge Areas for developing cloud computing curricula.
 
 [//]: # (Please add links to your content here)
 
