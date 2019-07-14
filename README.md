@@ -12,11 +12,11 @@ We are an ITiCSE 2019 working group on developing a cloud computing curriculum. 
 
 ## Goal
 
-Gathering and distributing cloud computing resources for teaching. For each assignment, the web pages linked below describe the assignment and provides materials -- handouts, starter code, and so on.
+To create a community ting cloud computing resources for teaching.uting teaching resources.
 
-Adding Content. See the info page for ideas about what makes a nifty assignment and how to apply for the 
+## Publications
 
-## Cloud Computing Curricula Resources
+The paper 'Cloud computing: developing contemporary computer science curriculum for a cloud-first future' was published by the working group in 2018 and led to the creation ofmputing Curricua Resources
 
 [//]: # (Please add links to your content here)
 
