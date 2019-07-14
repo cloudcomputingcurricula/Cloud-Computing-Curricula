@@ -18,7 +18,7 @@ The paper ['Cloud computing: developing contemporary computer science curriculum
 
 [//]: # (Please add links to your content here)
 
-## Instructions for how to contribute resources to this collection
+## Instructions for how to Contribute Resources to this Collection
 
 [How to contribute via a browser]()
 [How to contribute via a prompt]()
