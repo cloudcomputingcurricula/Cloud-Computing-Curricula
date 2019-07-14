@@ -33,3 +33,4 @@ Create New Module
 [Create New Module Template](https://github.com/cloudcomputingcurricula/Modules-/blob/master/Module.md)
 
 Download the template and PR the template adding a link to the Example of Cloud Computing
+Minor text update just for testing. 
