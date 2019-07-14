@@ -12,7 +12,7 @@ We are an ITiCSE 2019 working group on developing a cloud computing curriculum. 
 
 ## Goal
 
-Gathering and distributing cloud computing resources. For each assignment, the web pages linked below describe the assignment and provides materials -- handouts, starter code, and so on.
+Gathering and distributing cloud computing resources for teaching. For each assignment, the web pages linked below describe the assignment and provides materials -- handouts, starter code, and so on.
 
 Adding Content. See the info page for ideas about what makes a nifty assignment and how to apply for the 
 
