@@ -9,7 +9,7 @@ The [ACM SiGCSE](https://sigcse.org/sigcse/) Working Group titled "Toward Develo
 
 More information about the working group (WG7) is available [here](https://iticse.acm.org/working-group-details/#WG7), with group member details [here.](/Core/wgmembers.md)
  
-You can download a copy of the ACM paper, Cloud computing: developing contemporary computer science curriculum for a cloud-first future  [here](https://dl.acm.org/citation.cfm?id=3295781)
+You can download a copy of the ACM paper, Cloud computing: developing contemporary computer science curriculum for a cloud-first future  [here](https://dl.acm.org/authorize?N687443)
 
 ## Goal
 
