@@ -4,7 +4,7 @@ We welcome your contributions to our repository.  You may contribute original wo
 
 To add a contribution, create a pull request on the GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula):
 Copy `Module.md` to a new file with a name describing your contribution and add it to the `Content` folder.
-Update `README.md` to include a link to your new module file.
+Update `Contributions.md` to include a link to your new module file.
 
 ## Guidance for your copy of `Module.md`
 
@@ -24,15 +24,15 @@ In the file `Module.md`, update the sections as follows:
 
 See [this file](Sample.md) for an example of an edited `Module.md`.
 
-## Guidance for changes to `README.md`
-Add information that will help others decide if they'd like to explore your contribution further to the `README.md` file.  Put it under the appropriate header (adding a header if necessary).
+## Guidance for changes to `Contributions.md`
+Add information that will help others decide if they'd like to explore your contribution further to the `Contributions.md` file.  Put it under the appropriate header (adding a header if necessary).
 
 Your entry should consist of:
 ```
 [Title of contribution](link to your .md file) (KA1, KA2, …): Summary (tags)
 ```
 KA1, KA2 should be replaced by the abbreviations of the Knowledge Areas covered by your contribution.  The summary may be the summary from your `.md` file or may be a shorter version.  The tag should be the list of tags provided in your tags.  
-An example of an entry to match [the sample file](`Sample.md`) is below:
+An example of an entry to match [the sample file](Sample.md) is below:
 ```
 [Sample Contribution](Sample.md) (FCC, SDCA, CPMF): Here's a sample contribution of wonderful materials to the repo. (Intermediate, WWW, backend, security, programming)
 ```
