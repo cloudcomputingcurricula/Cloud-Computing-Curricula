@@ -17,7 +17,7 @@ To create an open community around sharing cloud computing resources for teachin
 
 ## Publications
 
-The paper ['Cloud computing: developing contemporary computer science curriculum for a cloud-first future' was published by the working group in 2018 and led to the creation of Knowledge Areas for developing cloud computing curricula.
+The paper ['Cloud computing: developing contemporary computer science curriculum for a cloud-first future'](https://dl.acm.org/citation.cfm?id=3295781&dl=ACM&coll=DL) was published by the working group in 2018 and led to the creation of Knowledge Areas for developing cloud computing curricula.
 
 [//]: # (Please add links to your content here)
 
