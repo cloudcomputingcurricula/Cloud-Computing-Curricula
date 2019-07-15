@@ -1,10 +1,10 @@
-How to contribute (using browser)
+# How to contribute using a browser
 
 ## Overview of updating content with browser
 
 Log into your GitHub account from a browser.
 
-Open a browser and go to the main GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula)
+Open a browser and go to the main GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula).
 
 ### Fork the repo
 - Fork this repo by using the "Fork" button at the top of the screen.
