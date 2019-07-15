@@ -27,4 +27,4 @@ For beginner users, we recommend using GitHub client or website (see bottom) for
         - sudo git request-pull master https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula.git
     
 
-[How to contribute (browser)] (https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula/blob/master/Core/HowToContributeBrowser.md)
+[How to contribute (browser)](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula/blob/master/Core/HowToContributeBrowser.md)

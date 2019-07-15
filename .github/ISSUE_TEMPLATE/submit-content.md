@@ -1,3 +1,12 @@
+---
+name: Submit content
+about: Complete this template to submit new content
+title: 'New resource: YOUR-MODULE-TITLE-HERE'
+labels: 'submission'
+assignees: leestott
+
+---
+
 ## Title
 
 *Content Title Replace Content Template the working title [(Guidance)]()*
