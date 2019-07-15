@@ -1,6 +1,6 @@
-# Contribution Guidelines (General)
+# General Contribution Guidelines
 ## An overview
-We welcome your contributions to our repository.  You may contribute original work or links to publically available works you have found useful.  
+We welcome your contributions to our repository.  You may contribute original work or links to publically available works you have found useful.
 
 To add a contribution, create a pull request on the GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula):
 Copy `Module.md` to a new file with a name describing your contribution and add it to the `Content` folder.
@@ -15,9 +15,9 @@ In the file `Module.md`, update the sections as follows:
 * Content Link: the link or links to your contribution
 * Knowledge Area(s): Select the Knowledge Areas that are applicable
 * Tags: words or short phrases to help others find your material
-** Level of study (Optional)
-** Cloud Vendor(s): If your contribution is specific to one or more vendors, list them here
-** General tags: Any other tags that would be useful
+  * Level of study (Optional)
+  * Cloud Vendor(s): If your contribution is specific to one or more vendors, list them here
+  * General tags: Any other tags that would be useful
 * Prerequisites (Optional): Any prerequisites to using your contribution
 * Learning objectives (Optional)
 * License (Optional)
@@ -39,5 +39,5 @@ An example of an entry to match [the sample file](Sample.md) is below:
 
 For details on the mechanics on how to update the GitHub repo, see the following:
 * How to contribute (using GitHub Desktop)
-* How to contribute (via the browser)
-* How to contribute (via the command line)
+* [How to contribute (via the browser)](HowtoContributeBrowser.md)
+* [How to contribute (via the command line)](HowToContributeCMD.md)
