@@ -1,10 +1,10 @@
-How to contribute (using browser)
+# How to contribute using a browser
 
 ## Overview of updating content with browser
 
 Log into your GitHub account from a browser.
 
-Open a browser and go to the main GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula)
+Open a browser and go to the main GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula).
 
 ### Fork the repo
 - Fork this repo by using the "Fork" button at the top of the screen.
@@ -25,3 +25,6 @@ If you've previously forked the repo, instead you will need to do [a pull reques
 - Ensure that the direction of the pull is to `base repository: cloudcomputingcurricula/Cloud-Computing-Curricula, base:master` from your repo.
 - If you have changes, you will see “Able to merge” notification and will be able to commit by clicking on ”Create pull request” button. 
   - Enter any comments necessary and click the “Create pull request” button again. 
+
+
+If you'd prefer contribute from the command line, see [these instructions.](HowToContributeCMD.md)
