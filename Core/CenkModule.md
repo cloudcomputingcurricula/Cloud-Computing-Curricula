@@ -4,7 +4,6 @@ Test Test Test - Cenk
 #
 ## Summary
 
-*Add the summary [(Guidance)]*
 
 ## Author or Contributor (Optional)
 
