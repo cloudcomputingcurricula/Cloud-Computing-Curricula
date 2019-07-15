@@ -2,7 +2,7 @@
 name: Submit content
 about: Complete this template to submit new content
 title: 'New resource: YOUR-MODULE-TITLE-HERE'
-labels: ''
+labels: 'submission'
 assignees: leestott
 
 ---
