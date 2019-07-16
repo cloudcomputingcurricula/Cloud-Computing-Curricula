@@ -16,6 +16,6 @@ These are:
 * [Cloud Programming Models and Frameworks](CPMF.md) (CPMF)
 * [Service Oriented Architecture](SOA.md) (SOA)
 * [Cloud Security, Privacy, Policy and Ethics](CSPPE.md) (CSPPE)
-* [IoT, Mobile, Edge and the Cloud](IotMEC.md) (IoTMEC)
+* [IoT, Mobile, Edge and the Cloud](IoTMEC.md) (IoTMEC)
 * [Cloud-based Artificial Intelligence and Machine Learning](CAIML.md)
 (CAIML)
