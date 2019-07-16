@@ -37,6 +37,7 @@
 ## Course Theme 
 
 - *Select Theme(s) Delete NonApplicable*
+
 Data
 + Data migration to the cloud
 + Discuss how used- lift and shift
