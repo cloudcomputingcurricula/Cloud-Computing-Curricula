@@ -14,7 +14,7 @@ emphasis on interoperability and lightweight communication. In
 particular, students should be able to implement a cloud-connected
 IoT solution using suitable cloud API services to support lightweight, scalable data storage and communication.
 
-Learning Objectives
+## Learning Objectives
 * Critically assess the separate and composite impact of cloud
 and mobile computing technologies upon the social behavior
 of the individual and society.
@@ -25,4 +25,3 @@ Internet of Things.
 limitations and communication needs in these systems.
 * Specify, design, and develop cloud-connected IoT applications capable of sending and receiving sensor data.
 *  Demonstrate IoT Edge within the context of current applications of mobile and sensor systems.
-  
