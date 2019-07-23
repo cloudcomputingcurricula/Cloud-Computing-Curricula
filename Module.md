@@ -34,6 +34,36 @@
 - [IoT, Mobile, Edge and the Cloud (IoTMEC)](Core/KAs/IoTMEC.md)
 - [Cloud-based Artificial Intelligence and Machine Learning (CAIML)](Core/KAs/CAIML.md)
 
+## Course Theme 
+
+- *Select Theme(s) Delete NonApplicable*
+
+Data
++ Data migration to the cloud
++ Discuss how used- lift and shift
+
+Application
++ Application migration to the cloud
++ Discuss how used - lift and shift
+
+Process
++ Software Engineering processes
++ DevOps processes
+
+Analytics/ML
++ Analytics and machine learning frameworks
+
+Cloud-Native
++ Cloud-native software application design, architecture, development, deployment & monitoring
+
+Security
++ Cybersecurity and cross-cutting security analysis and practices
+Discuss how courses built around security concepts and applied to develop systems and policies
+
+Infrastructure
++ Cloud Software Stack, Networking, HPC
+Gap analysis between career paths and current courses
+
 ## Tags to describe your contribution
 ### Level of Study
 

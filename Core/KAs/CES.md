@@ -4,7 +4,8 @@ configurations, with associated cost/performance trade-offs. Additionally, stude
 with scaling and load balancing configured for a given application
 deployment scenario. Consideration should also be given to geographical/regional scaling attributes of the deployed cloud service,
 with a rationale presented on configuration choices.
-## Learning Objectives.
+
+## Learning Objectives
 * Discuss and critique the cost/performance characteristics
 and trade-offs of using scalable cloud services.
 * Describe the vertical and horizontal scaling approaches that

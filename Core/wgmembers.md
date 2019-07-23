@@ -1,9 +1,9 @@
 ## Working Group Member Details
 
 || |
-| - | - |
+| --- | :--- |
 | ![Derek Foster](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/Dfoster.jpg) | [Derek Foster](https://staff.lincoln.ac.uk/defoster) is a Principal Lecturer in the Lincoln School of Computer Science  |
-|![Laurie White](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/LaurieW.jpg) |[Laurie White](https://laurie.dev/)  Google Cloud Developer Relations |
+|![Laurie White](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/LaurieW.jpg) |[Laurie White](https://laurie.dev/)  I've taught at a variety of schools for over 30 years.  I'm currently a Computer Science professor emeritus from Mercer University, Georgia, USA.  I failed at retiring though and currently work in Google Developer Relations doing  outreach to faculty interested in using the cloud. |
 | ![Cenk Erdril](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/Erdil_Cenk.jpg) | [D. Cenk Erdil](https://www.sacredheart.edu/academics/schoolofcomputerscienceengineering/facultystaff/dcenkerdilphd/)  I am a Assistant Professor at Sacred Heart University’s School of Computer Science and Engineering |
 | ![Harvey Hyman](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/hyman-harvey.jpg) |[Harvey Hyman](https://www.usf.edu/business/contacts/hyman-harvey.aspx) I am a instructor in the Information Systems and Decision Sciences Department at Muma College of Business|
 |![Joshua Adams](https://raw.githubusercontent.com/cloudcomputingcurricula/Cloud-Computing-Curricula/master/Core/Profiles/JoshuaA.jpg) | [Joshua Adams](https://www.linkedin.com/in/joshua-adams-a24b7b24) I am a instructor at Saint Leo University 

@@ -23,6 +23,7 @@ resources
 compared to virtual machines.
 * Build, deploy, manage, and administer containers and container clusters and architect containerized applications using
 container registries.
+
 ### FaaS
 * Describe the rationale behind serverless computing and how
 it enables the running and scaling of applications without
