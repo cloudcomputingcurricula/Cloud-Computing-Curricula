@@ -41,9 +41,8 @@ to Machine Learning using the Titanic as the topic and exploring numerous ways t
 
 ### Cloud Vendor(s)
 
-- None
+- None (but Kaggle is owned by Google and can interface with some GCP tools)
 
 ### General Tags
 
-- *Add the topics, classes, and other tags to help describe your content*
-
+- Notebooks, tutorials, contests, datasets
