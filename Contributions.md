@@ -22,3 +22,6 @@ and sample solutions. (All levels, notebooks, tutorials, contests, datasets)
 
 
 ### Vendor Sites
+
+*  [Google Cloud Platform](/Content/GCP.md) (All KAs): Google's cloud offering. Includes documentation and links to academic programs. (All levels, cloud provider, grants, tutorials, documentation)
+
