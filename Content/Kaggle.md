@@ -26,10 +26,10 @@ to Machine Learning using the Titanic as the topic and exploring numerous ways t
 
 ## Knowledge Area(s)
 
-- [Storage Resources on the Cloud (SRC)](Core/KAs/SRC.md)
-- [Cloud-based Artificial Intelligence and Machine Learning (CAIML)](Core/KAs/CAIML.md)
+- [Storage Resources on the Cloud (SRC)](/Core/KAs/SRC.md)
+- [Cloud-based Artificial Intelligence and Machine Learning (CAIML)](/Core/KAs/CAIML.md)
 
-## Material Theme 
+## [Material Theme](/Core/Themes.md) 
 
 - Data
 - Analytics/ML
