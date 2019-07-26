@@ -1,10 +1,8 @@
-## Title
-
-*Content Title Replace Content Template the working title [(Guidance)]()*
+# Title (put your title here)
 
 ## Summary
 
-*Add the summary [(Guidance)]*
+Put your summary here.
 
 ## Author or Contributor (Optional)
 
@@ -14,11 +12,11 @@
 
 ## Content Link
 
-- *Add the link to your resources [(Guidance)]*
+- *Add the link or links to your resources
 
 ## Knowledge Area(s)
 
-- *Add KA(s) Delete NonApplicable*
+- *Select KA(s); Delete if Nonapplicable*
 - [Fundamental Cloud Concepts (FCC)](Core/KAs/FCC.md)
 - [Computing Abstractions on the Cloud (CAC)](Core/KAs/CAC.md)
 - [Storage Resources on the Cloud (SRC)](Core/KAs/SRC.md)
@@ -34,47 +32,28 @@
 - [IoT, Mobile, Edge and the Cloud (IoTMEC)](Core/KAs/IoTMEC.md)
 - [Cloud-based Artificial Intelligence and Machine Learning (CAIML)](Core/KAs/CAIML.md)
 
-## Course Theme 
+## [Material Theme](Core/Themes.md) 
 
-- *Select Theme(s) Delete NonApplicable*
-
-Data
-+ Data migration to the cloud
-+ Discuss how used- lift and shift
-
-Application
-+ Application migration to the cloud
-+ Discuss how used - lift and shift
-
-Process
-+ Software Engineering processes
-+ DevOps processes
-
-Analytics/ML
-+ Analytics and machine learning frameworks
-
-Cloud-Native
-+ Cloud-native software application design, architecture, development, deployment & monitoring
-
-Security
-+ Cybersecurity and cross-cutting security analysis and practices
-Discuss how courses built around security concepts and applied to develop systems and policies
-
-Infrastructure
-+ Cloud Software Stack, Networking, HPC
-Gap analysis between career paths and current courses
+- *Select Theme(s); Delete if Nonapplicable*
+- Data
+- Application
+- Process
+- Analytics/ML
+- Cloud-Native
+- Security
+- Infrastructure
 
 ## Tags to describe your contribution
 ### Level of Study
 
-- *Add the level Delete NonApplicable*
+- *Select the level or add your own; Delete if Nonapplicable*
 - Introduction
 - Intermediate
 - Advanced
 
 ### Cloud Vendor(s)
 
-- *Add the vendor(s) Delete NonApplicable or add your add own* 
+- *Select the vendor(s) or add your own; Delete if Nonapplicable * 
 - None
 - AWS
 - Azure
@@ -88,12 +67,12 @@ Gap analysis between career paths and current courses
 
 ## Prerequisites (Optional)
 
-- *List the prerequisites required software to be installed [(Guidance)]*
+- *List the prerequisites such as required software to be installed*
 
-## Learning Objectives
+## Learning Objectives (Optional)
 
-1. *Add numbered Learning Objectives [(Guidance)]*
+1. *Add numbered Learning Objectives *
 
 ## License (Optional)
 
-- *License requirements[(Guidance)]*
+- *License requirements*
