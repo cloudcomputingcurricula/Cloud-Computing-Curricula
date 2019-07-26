@@ -17,22 +17,22 @@ Put your summary here.
 ## Knowledge Area(s)
 
 - *Select KA(s); Delete if Nonapplicable*
-- [Fundamental Cloud Concepts (FCC)](Core/KAs/FCC.md)
-- [Computing Abstractions on the Cloud (CAC)](Core/KAs/CAC.md)
-- [Storage Resources on the Cloud (SRC)](Core/KAs/SRC.md)
-- [Networking Resources on the Cloud (NRC)](Core/KAs/NRC.md)
-- [Cloud Elasticity and Scalability (CES)](Core/KAs/CES.md)
-- [Fault Tolerance, Resilience and Reliability (FTRR)](Core/KAs/FTRR.md)
-- [Cloud Deployment, Monitoring and Maintenance (CDMM)](Core/KAs/CDMM.md)
-- [Cloud Orchestration (CO)](Core/KAs/CO.md)
-- [Software Development using Cloud APIs (SDCA)](Core/KAs/SDCA.md)
-- [Cloud Programming Models and Frameworks (CPMF)](Core/KAs/CPMF.md)
-- [Service Oriented Architecture (SOA)](Core/KAs/SOA.md)
-- [Cloud Security, Privacy, Policy and Ethics (CSPPE)](Core/KAs/CSPPE.md)
-- [IoT, Mobile, Edge and the Cloud (IoTMEC)](Core/KAs/IoTMEC.md)
-- [Cloud-based Artificial Intelligence and Machine Learning (CAIML)](Core/KAs/CAIML.md)
+- [Fundamental Cloud Concepts (FCC)](/Core/KAs/FCC.md)
+- [Computing Abstractions on the Cloud (CAC)](/Core/KAs/CAC.md)
+- [Storage Resources on the Cloud (SRC)](/Core/KAs/SRC.md)
+- [Networking Resources on the Cloud (NRC)](/Core/KAs/NRC.md)
+- [Cloud Elasticity and Scalability (CES)](/Core/KAs/CES.md)
+- [Fault Tolerance, Resilience and Reliability (FTRR)](/Core/KAs/FTRR.md)
+- [Cloud Deployment, Monitoring and Maintenance (CDMM)](/Core/KAs/CDMM.md)
+- [Cloud Orchestration (CO)](/Core/KAs/CO.md)
+- [Software Development using Cloud APIs (SDCA)](/Core/KAs/SDCA.md)
+- [Cloud Programming Models and Frameworks (CPMF)](/Core/KAs/CPMF.md)
+- [Service Oriented Architecture (SOA)](/Core/KAs/SOA.md)
+- [Cloud Security, Privacy, Policy and Ethics (CSPPE)](/Core/KAs/CSPPE.md)
+- [IoT, Mobile, Edge and the Cloud (IoTMEC)](/Core/KAs/IoTMEC.md)
+- [Cloud-based Artificial Intelligence and Machine Learning (CAIML)](/Core/KAs/CAIML.md)
 
-## [Material Theme](Core/Themes.md) 
+## [Material Theme(s)](/Core/Themes.md) 
 
 - *Select Theme(s); Delete if Nonapplicable*
 - Data
