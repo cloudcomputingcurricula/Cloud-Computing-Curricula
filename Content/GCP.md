@@ -43,7 +43,7 @@ Google's cloud offering.  Includes documentation and links to academic programs.
 - Security
 - Infrastructure
 
-## Tags to describe your contribution
+## Tags 
 ### Level of Study
 
 - All
