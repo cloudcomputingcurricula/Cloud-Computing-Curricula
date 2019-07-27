@@ -1,22 +1,23 @@
-# Title (put your title here)
+# Google Cloud Platform (GCP)
 
 ## Summary
 
-Put your summary here.
+Google's cloud offering.  Includes documentation and links to academic programs.
 
-## Author or Contributor (Optional)
+## Contributor
 
-- *Author(s)*
-- *Contact [(How do you want people to contact you LinkedIn profile, Twitter, Email, N/A)]*
-- *Institution/Company*
+- Laurie White
+- lauriewhite@google.com
+- Google LLC
 
 ## Content Link
 
-- *Add the link or links to your resources
+- [https://cloud.google.com](https://cloud.google.com) The starting page for GCP documentation.
+- [GCP for Education](https://edu.google.com/programs/?modal_active=none) A link to the educational programs for GCP
+- [GCP Eductional Resources](https://github.com/GoogleCloudPlatform/edu-resources) A GitHub collection of materials for GCP.  
 
 ## Knowledge Area(s)
 
-- *Select KA(s); Delete if Nonapplicable*
 - [Fundamental Cloud Concepts (FCC)](/Core/KAs/FCC.md)
 - [Computing Abstractions on the Cloud (CAC)](/Core/KAs/CAC.md)
 - [Storage Resources on the Cloud (SRC)](/Core/KAs/SRC.md)
@@ -34,7 +35,6 @@ Put your summary here.
 
 ## [Material Theme(s)](/Core/Themes.md) 
 
-- *Select Theme(s); Delete if Nonapplicable*
 - Data
 - Application
 - Process
@@ -43,36 +43,16 @@ Put your summary here.
 - Security
 - Infrastructure
 
-## Tags to describe your contribution
+## Tags 
 ### Level of Study
 
-- *Select the level or add your own; Delete if Nonapplicable*
-- Introduction
-- Intermediate
-- Advanced
+- All
 
 ### Cloud Vendor(s)
 
-- *Select the vendor(s) or add your own; Delete if Nonapplicable * 
-- None
-- AWS
-- Azure
 - GCP
-- IBM
-- Add your Own
 
 ### General Tags
 
-- *Add the topics, classes, and other tags to help describe your content*
+- Cloud provider, grants, tutorials, documentation
 
-## Prerequisites (Optional)
-
-- *List the prerequisites such as required software to be installed*
-
-## Learning Objectives (Optional)
-
-1. *Add numbered Learning Objectives *
-
-## License (Optional)
-
-- *License requirements*
