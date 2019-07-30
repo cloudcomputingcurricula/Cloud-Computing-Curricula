@@ -13,7 +13,7 @@ Google's cloud offering.  Includes documentation and links to academic programs.
 ## Content Link
 
 - [https://cloud.google.com](https://cloud.google.com) The starting page for GCP documentation.
-- [GCP for Education](https://edu.google.com/programs/?modal_active=none) A link to the educational programs for GCP
+- [GCP for Education](https://edu.google.com/programs/?modal_active=none) A link to the educational programs for GCP, including the grant programs.
 - [GCP Eductional Resources](https://github.com/GoogleCloudPlatform/edu-resources) A GitHub collection of materials for GCP.  
 
 ## Knowledge Area(s)
