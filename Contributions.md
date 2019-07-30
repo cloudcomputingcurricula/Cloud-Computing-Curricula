@@ -18,6 +18,12 @@ and sample solutions. (All levels, notebooks, tutorials, contests, datasets)
 * [Smooth Sailing with Kubernetes](/Content/k8scomic.md) (FCC, CAC): a comic book introduction to Kubernetes (introduction, K8s, comic)
 
 
+### Videos
+* [GCP Essentials](/Content/GCPEssentials.md) A series of 4 to 9 minute videos focusing on introductory level GCP, 
+including topics such as compute options, serverless computing, machine learning, and data storage.  
+(Introduction, videos, Cloud Console)
+
+
 ### Course sites
 
 
