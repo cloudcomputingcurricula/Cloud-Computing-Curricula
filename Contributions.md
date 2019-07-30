@@ -4,6 +4,12 @@
 
 ##  Hands-on Exercises
 
+* [Qwiklabs](/Content/Qwiklabs.md)  (All KAs) Hands-on labs for AWS and GCP that come with pre-provisioned 
+accounts so there's no need to have an account on these services and no danger of leaving resources running.  
+Groups labs together into Quests that provide badges for completion.  
+(All levels, AWS, GCP, Hands-on, labs)
+
+
 ##  Assignments
 
 
@@ -19,7 +25,7 @@ and sample solutions. (All levels, notebooks, tutorials, contests, datasets)
 
 
 ### Videos
-* [GCP Essentials](/Content/GCPEssentials.md) A series of 4 to 9 minute videos focusing on introductory level GCP, 
+* [GCP Essentials](/Content/GCPEssentials.md) (FCC) A series of 4 to 9 minute videos focusing on introductory level GCP, 
 including topics such as compute options, serverless computing, machine learning, and data storage.  
 (Introduction, videos, Cloud Console)
 
