@@ -21,23 +21,23 @@ Each of the following Learning Objectives links to a list of materials that can 
 
 ## Conceptual Learning Objectives
 
-* [FCC-CL1](LOs/FCC-CL1): Define the cloud computing concept, its history and motivation.	 
-* [FCC-CL2](LOs/FCC-CL2): Name widely-used cloud-based systems and explain the advantages of having the system on the cloud.	 
-* [FCC-CL3](LOs/FCC-CL3): Define virtualization of computing, storage, and networking resources.	 
-* [FCC-CL4](LOs/FCC-CL4): Explain the differences between leasing versus ownership of compute resources and compare the total cost of ownership.	 
-* [FCC-CL5](LOs/FCC-CL5): Discuss some of the advantages and disadvantages of the cloud paradigm when compared to on-premise resources.	 
-* [FCC-CL6](LOs/FCC-CL6): Discuss the implications of utilizing on-premise versus off-premise compute resources.	 
-* [FCC-CL7](LOs/FCC-CL7): Articulate the economic benefits as well as issues/risks of the cloud paradigm for both cloud providers and users.	 
-* [FCC-CL8](LOs/FCC-CL8): Compare and contrast the types of cloud service models.	 
-* [FCC-CL9](LOs/FCC-CL9): Define service level objectives, agreements and their implications on migrating a solution to a cloud service provider.	 
-* [FCC-CL10](LOs/FCC-CL10): Enumerate and explain various threats in cloud security.	 
-* [FCC-CL11](LOs/FCC-CL11): Analyze a case study about a cloud-based system.	 
+* [FCC-CL1](LOs/FCC-CL1.md): Define the cloud computing concept, its history and motivation.	 
+* [FCC-CL2](LOs/FCC-CL2.md): Name widely-used cloud-based systems and explain the advantages of having the system on the cloud.	 
+* [FCC-CL3](LOs/FCC-CL3.md): Define virtualization of computing, storage, and networking resources.	 
+* [FCC-CL4](LOs/FCC-CL4.md): Explain the differences between leasing versus ownership of compute resources and compare the total cost of ownership.	 
+* [FCC-CL5](LOs/FCC-CL5.md): Discuss some of the advantages and disadvantages of the cloud paradigm when compared to on-premise resources.	 
+* [FCC-CL6](LOs/FCC-CL6.md): Discuss the implications of utilizing on-premise versus off-premise compute resources.	 
+* [FCC-CL7](LOs/FCC-CL7.md): Articulate the economic benefits as well as issues/risks of the cloud paradigm for both cloud providers and users.	 
+* [FCC-CL8](LOs/FCC-CL8.md): Compare and contrast the types of cloud service models.	 
+* [FCC-CL9](LOs/FCC-CL9.md): Define service level objectives, agreements and their implications on migrating a solution to a cloud service provider.	 
+* [FCC-CL10](LOs/FCC-CL10.md): Enumerate and explain various threats in cloud security.	 
+* [FCC-CL11](LOs/FCC-CL11.md): Analyze a case study about a cloud-based system.	 
 
 ## Experiental Learning Objectives
 
-* [FCC-EL1](LOs/FCC-EL1): Recognize existing VM templates provided on a particular cloud infrastructure.	 
-* [FCC-EL2](LOs/FCC-EL2): Explain alternative methods of interacting with provisioned resources (e.g., CLI, GUI, API). Browse, identify, and access resources through a GUI and the CLI.	 
-* [FCC-EL3](LOs/FCC-EL3): Create and format virtual storage units.	 
-* [FCC-EL4](LOs/FCC-EL4): Demonstrate attaching virtual storage units to VM instances.	 
-* [FCC-EL5](LOs/FCC-EL5): Copy data from local storage to the cloud.	 
-* [FCC-EL6](LOs/FCC-EL6): Demonstrate creating a VM, and provisioning it with compute, memory and storage options. Demonstrate starting, stopping and deleting a VM instance.	 
+* [FCC-EL1](LOs/FCC-EL1.md): Recognize existing VM templates provided on a particular cloud infrastructure.	 
+* [FCC-EL2](LOs/FCC-EL2.md): Explain alternative methods of interacting with provisioned resources (e.g., CLI, GUI, API). Browse, identify, and access resources through a GUI and the CLI.	 
+* [FCC-EL3](LOs/FCC-EL3.md): Create and format virtual storage units.	 
+* [FCC-EL4](LOs/FCC-EL4.md): Demonstrate attaching virtual storage units to VM instances.	 
+* [FCC-EL5](LOs/FCC-EL5.md): Copy data from local storage to the cloud.	 
+* [FCC-EL6](LOs/FCC-EL6.md): Demonstrate creating a VM, and provisioning it with compute, memory and storage options. Demonstrate starting, stopping and deleting a VM instance.	 
