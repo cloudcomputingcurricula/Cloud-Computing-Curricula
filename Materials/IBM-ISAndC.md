@@ -1,4 +1,3 @@
-IBM-ISAndC
 # Title:   Introduction to IBM Storage and Cloud
 
 ## Type of resource:
