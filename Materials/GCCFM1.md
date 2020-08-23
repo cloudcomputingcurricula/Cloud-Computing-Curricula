@@ -11,9 +11,8 @@
    Introduction to the cloud in general, and 
    Google Cloud in particular
 
-## Links: 
-   https://www.qwiklabs.com/focuses/2794?parent=catalog
-
+## Access: 
+   Access is free, but must be requested at https://cloud.google.com/edu .
 
 ## Intended Level of Course Materials: 
    Associate
