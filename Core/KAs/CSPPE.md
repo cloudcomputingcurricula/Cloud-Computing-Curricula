@@ -34,3 +34,17 @@ Each of the following Learning Objectives links to a list of materials that can 
 * [CSPPE-CL23](LOs/CSPPE-CL23.md):  	Explain the concept of multilayered data security and why it is necessary.	 
 * [CSPPE-CL24](LOs/CSPPE-CL24.md):  	List some of the prominent threats to cloud security.	 
 * [CSPPE-CL25](LOs/CSPPE-CL25.md):  	Explain some of the services offered by data-security platforms and the integrated security services offered by cloud service providers.	 
+
+## Experiental Learning Objectives
+
+* [CSPPE-EL1](LOs/CSPPE-EL1.md):  	Analyze abnormal system behaviors. 	 
+* [CSPPE-EL2](LOs/CSPPE-EL2.md):  	Demonstrate the use of security controls in the cloud computing environment. 	 
+* [CSPPE-EL3](LOs/CSPPE-EL3.md):  	Use commonly accepted secure software development practices in cloud computing.	 
+* [CSPPE-EL4](LOs/CSPPE-EL4.md):  	Apply forensics techniques for investigation and analysis in cloud computing. 	 
+* [CSPPE-EL5](LOs/CSPPE-EL5.md):  	Practice the process of cloud computing threat mitigation. 	 
+* [CSPPE-EL6](LOs/CSPPE-EL6.md):  	Implement security policies and plans in the cloud security environment.	 
+* [CSPPE-EL7](LOs/CSPPE-EL7.md):  	Test for threat vulnerabilities in a cloud computing application/system (penetration testing, ethical hacking).	 
+* [CSPPE-EL9](LOs/CSPPE-EL9.md):  	Configure firewall rules for a specific cloud service to implement the Network layer of a multi-layered security strategy.	 
+* [CSPPE-EL10](LOs/CSPPE-EL10.md):  	Enable server-level auditing of a specific cloud service to implement the Auditing and Threat Protection layer of a multi-layered security strategy.	 
+* [CSPPE-EL11](LOs/CSPPE-EL11.md):  	Practice how to configure access to specific cloud services.	 
+
