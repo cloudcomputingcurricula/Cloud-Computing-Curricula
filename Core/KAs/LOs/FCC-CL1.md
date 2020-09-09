@@ -2,6 +2,4 @@
 
 Supporting materials
 
-* [GCCFM1](../../../Materials/GCCFM1.md)
-* [X-Linked-Intro](../../../Materials/X-Linked-Intro.md)
-* [IBM-ISAndC](../../../Materials/IBM-ISAndC.md)
+* First item
