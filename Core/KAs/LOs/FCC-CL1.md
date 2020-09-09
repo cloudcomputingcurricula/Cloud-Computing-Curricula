@@ -2,4 +2,6 @@
 
 Supporting materials
 
-* First item
+* [GCCFM1](../../../Materials/GCCFM1.md): So, What's the Cloud Anyway? (Slides, Lecture Notes, Lab)
+* [X-Linked-Intro](../../../Materials/X-Linked-Intro.md): Learning CLoud Computing: Core Concepts (Videos)
+* [IBM-ISAndC](../../../Materials/IBM-ISAndC.md): Introduction to IBM Storage and Cloud (Videos, notes, quiz)
